@@ -4,9 +4,9 @@ I'm a software engineer working on high-scale web services and tooling for secur
 
 - 🏢 Currently working @ Microsoft
 - 🏔️ Live in beautiful Vancouver, BC 🍁, originally from Belarus 🤍❤️🤍
-- 🔨 Developing CLI tooling, frontend and backend using TypeScript, C#, Python, Go
-- 📚 Love learning new programming languages, recently been looking into FP languages (👀 looking at you Haskell)
-- 🎮 Play and watch competitve games in my free time - Valorant, TFT
+- 🔨 Developing high-scale backend, software supply chain security CLI tooling, and frontend using TypeScript, C#, Go
+- 📚 Love learning new programming languages and high-scale services site reliability practices
+- 🎮 Play and watch competitve and simulation games in my free time - Teamfight Tactics, MSFS
 
 ![](https://raw.githubusercontent.com/ByAgenT/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/ByAgenT/github-stats/master/generated/languages.svg#gh-light-mode-only)
